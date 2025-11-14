@@ -1,0 +1,15 @@
+# Deep Learning Framework
+torch~=2.5.1+cu121
+torchvision~=0.20.1+cu121
+
+# Transformer Models (RoBERTa, NLI-like model)
+transformers~=4.57.0
+
+# Data Handling
+pandas~=2.3.3
+numpy~=2.2.6
+scikit-learn~=1.7.2
+Pillow~=11.3.0
+config~=0.5.1
+matplotlib~=3.10.6
+seaborn~=0.13.2
